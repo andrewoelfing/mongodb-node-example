@@ -15,4 +15,6 @@ provider:
   profile: <set-your-aws-profile>
 ```
 
+Third execute `npm install` to download all dependencies. 
+
 Last execute `serverless deploy` in the `crash-service-test` directory.
